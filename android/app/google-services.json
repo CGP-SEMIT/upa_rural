@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286505344392",
+    "project_id": "upa-rural",
+    "storage_bucket": "upa-rural.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286505344392:android:bd2ff73c92cd34d69bae3d",
+        "android_client_info": {
+          "package_name": "com.example.upa_rural"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0ba3XG0znoVe95Hp-QB9ufAkkgklLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286505344392:android:df9f71c0ecafce779bae3d",
+        "android_client_info": {
+          "package_name": "com.example.upa_rural"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0ba3XG0znoVe95Hp-QB9ufAkkgklLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+# Flutter & Android builds
+build/
+.android/
+.ios/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Android Studio/Gradle
+.gradle/
+.idea/
+*.iml
+local.properties
+android/app/build/
+
+# Binaries grandes
+*.apk
+*.aab
+*.so
+*.dill
+*.bin
